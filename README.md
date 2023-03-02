@@ -15,7 +15,7 @@ I am a Software engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - 🔭 I’m  an inspired software engineer.
 - 🌱 I like learning new technologies.
 - ⚡ In my free time I solve problems on different coding platforms.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-rami-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rami-affes-b19447194/));&nbsp;Email:rami.affes@enis.tn;
+- 📫 How to reach me: &nbsp; ([![Linkedin Badge](https://img.shields.io/badge/-rami-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rami-affes-b19447194/))&nbsp;Email:rami.affes@enis.tn;
 
 ---
 
