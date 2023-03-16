@@ -2,7 +2,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/rami-affes-b19447194/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<p align="center"><img src="https://hit.yhype.me/github/profile?user_id=76079346" alt=""></p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ramiaffes&color=green" alt=""></p>
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
@@ -37,7 +38,7 @@ I am a Software engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ramiaffes&theme=dark&background=000000)](https://git.io/streak-stats)
-![tracker](https://hit.yhype.me/github/profile?user_id=76079346)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiaffes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
