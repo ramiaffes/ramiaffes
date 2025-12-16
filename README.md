@@ -11,7 +11,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Software engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tunisia.
+I am a Computer engineer with strong interest in Artificial Intelligence<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tunisia.
 
 - 🔭 I’m  a lifelong learner.
 - 🌱 I like learning new technologies.
@@ -50,6 +50,16 @@ I am a Software engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiaffes&layout=compact&theme=vision-friendly-dark" />
+</p>
+<p>
+     ### 🔗 Profiles & Links
+<p>
+  <a href="https://www.linkedin.com/in/rami-affes-b19447194/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rami%20Affes-blue?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/ramiaffes/">
+    <img src="https://img.shields.io/badge/LeetCode-ramiaffes-orange?style=flat&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 ---
 
