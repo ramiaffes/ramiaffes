@@ -24,21 +24,32 @@ I am a Software engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="kotlin" **alt="kotlin" width="40" height="40"/>&nbsp;
-</p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"
+     title="django"
+     alt="django"
+     width="40"
+     height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg"
+     title="qt"
+     alt="qt"
+     width="40"
+     height="40"/>&nbsp;</p>
 
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=ramiaffes&theme=dark&background=000000&v=1)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiaffes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramiaffes&show_icons=true&theme=vision-friendly-dark" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiaffes&layout=compact&theme=vision-friendly-dark" />
+</p>
 ---
 
