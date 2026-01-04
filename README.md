@@ -45,13 +45,6 @@ I am a Computer engineer with strong interest in Artificial Intelligence<img src
 
 ---
 
-### 🔥 &nbsp; My Stats :
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ramiaffes&show_icons=true&theme=vision-friendly-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiaffes&layout=compact&theme=vision-friendly-dark" />
-</p>
-
----
 
 ### 🔗 &nbsp; Profiles & Links :
 <p>
