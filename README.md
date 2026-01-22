@@ -12,7 +12,7 @@ I am a Computer engineer with strong interest in Artificial Intelligence<img src
 
 - 🔭 I’m  a lifelong learner.
 - 🌱 I like learning new technologies.
-- ⚡ In my free time I solve problems on different coding platforms.
+- ⚡ I am currently pursuing a Master of Science in Artificial Intelligence at the University of Surrey.
 - 📫 How to reach me &nbsp;rami.affes@gmail.com.
 
 ---
